@@ -28,7 +28,7 @@ Word as a string that contains a number or letter
 
 GET API
 
-```curl --location --request PUT 'http://0.0.0.0:5000/word/apple' --header 'Content-Type: application/json'```
+```curl --location --request GET 'http://0.0.0.0:5000/word/apple' --header 'Content-Type: application/json'```
 
 PUT API
 
